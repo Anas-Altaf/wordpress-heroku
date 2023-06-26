@@ -16,7 +16,7 @@
       "bin/scripts/postdeploy.sh"
     ]
   },
-  "stack": "heroku-20",
+  "stack": "heroku-22",
   "env": {
     "AUTH_KEY": {
       "description": "A secret key to increase security of stored information.",
