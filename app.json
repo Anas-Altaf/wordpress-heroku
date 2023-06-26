@@ -58,15 +58,15 @@
   "formation": {
     "web": {
       "quantity": 1,
-      "size": "hobby"
+      "size": "standard-2x"
     }
   },
   "addons": [
     {
-      "plan": "jawsdb-maria:kitefin"
+      "plan": "jawsdb-maria:leopard"
     },
     {
-      "plan": "sendgrid:starter"
+      "plan": "sendgrid:essentials50k"
     },
     {
       "plan": "scheduler:standard"
@@ -75,7 +75,7 @@
       "plan": "heroku-redis:premium-0"
     },
     {
-      "plan": "papertrail:choklad"
+      "plan": "papertrail:fixa"
     }
   ],
   "buildpacks": [
